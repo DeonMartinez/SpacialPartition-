@@ -1,6 +1,6 @@
-# SpacialPartition++
+# SpatialPartition++
 
-playable link:
+Playable link:
 https://deonmartinez.github.io/Spacial_Partition/
 
 Tutorial: 
