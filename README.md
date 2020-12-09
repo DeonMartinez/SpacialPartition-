@@ -1,7 +1,7 @@
 # SpatialPartition++
 
-Playable link:
+Playable:
 https://deonmartinez.github.io/Spatial_Partition/
 
-Tutorial: 
+References: 
 https://www.habrador.com/tutorials/programming-patterns/19-spatial-partition-pattern/
